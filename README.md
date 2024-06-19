@@ -1,3 +1,5 @@
+![Sajal's Photo](path/to/your/photo.jpg)
+
 ## Hi there 👋
 
 - 🎓I'm a MBA(IB)'24 graduate from IIFT Delhi & Economics Major'20 from Delhi University
