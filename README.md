@@ -1,4 +1,4 @@
-![Sajal's Photo](https://github.com/SajalVats/SajalVats/blob/main/Portfolio%20Self%20Image.png)
+![Sajal's Photo](https://github.com/SajalVats/Photo/blob/main/Portfolio%20Self%20Image.png)
 
 ## Hi there 👋
 
