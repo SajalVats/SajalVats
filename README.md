@@ -6,5 +6,5 @@
 - 🎓I'm a MBA(IB)'24 graduate from IIFT Delhi & Economics Major'20 from Delhi University
 - 🧑‍💻 I’m currently working on PowerBI,Excel,MySQL,Beginner Python
 - 👯 Apart from Data Analytics, I'm open to discuss International Trade, Commodity Trading, Business, and Economics
-- 📫 You can reach me on vatssajal@gmail.com,https://codebasics.io/portfolio/Sajal-Vats
+- 📫 You can reach me on vatssajal@gmail.com
 - ⚡ Trivia: I'm the first non engineer male in my family
