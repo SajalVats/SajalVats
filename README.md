@@ -7,4 +7,4 @@
 - 🧑‍💻 I’m currently working on PowerBI, Excel, MySQL, and Beginner Python
 - 👯 Apart from Data Analytics, I'm open to discuss International Trade, Commodity Trading, Business, and Economics
 - 📫 You can reach me on vatssajal@gmail.com
-- ⚡ Trivia: I'm the first non engineer male in my family
+- ⚡ Trivia: I'm the first non engineer male in my extended family
